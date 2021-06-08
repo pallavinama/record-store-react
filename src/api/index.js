@@ -1,5 +1,7 @@
 import ky from 'ky';
 
+// Added comment
+
 const baseUrl = 'http://localhost:8081/records';
 
 const api = {
